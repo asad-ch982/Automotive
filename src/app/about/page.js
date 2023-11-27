@@ -25,11 +25,11 @@ supplementary storage solution for large vehicles.
       <div className='text-2xl font-bold text-center text-red-600 my-2'>Stages of retractable trunk deployment</div>
 
 
-      <div className='md:flex my-6 mx-20  border-1 border-gray-700 rounded-3xl'>
+      <div className='md:flex md:flex-row flex flex-col-reverse my-6 md:mx-20 mx-4 border-1 border-gray-700 rounded-3xl'>
         <div className='my-4 md:my-0'>
         <Image className='image1 border-1 border-gray-700 rounded-3xl' alt='' src='/pic1.png' width='300' height='400'></Image>
         </div>
-        <div className=' mx-16'>
+        <div className=' md:mx-16'>
         <video className='video2  border-gray-700 border-1 rounded-3xl' autoPlay loop muted>
                         <source src="/embodiment2.mov" type='video/mp4' />
                     </video>
@@ -42,32 +42,32 @@ supplementary storage solution for large vehicles.
 
 
         <div className='div1 md:mx-4'>
-        <div className='font-bold text-xl my-6'>
+        <div className='md:font-bold text-xl my-6'>
           <span className='p-2 bg-red-600'>1</span> Increased Legroom
         </div>
-        <div className='font-bold text-xl my-6'>
+        <div className='md:font-bold text-xl my-6'>
           <span className='p-2 bg-red-600'>2</span> Increased cargo capacity: A small
 hatchback holds up to six large suitcases.
         </div>
-        <div className='font-bold text-xl my-6'>
+        <div className='md:font-bold text-xl my-6'>
           <span className='p-2 bg-red-600'>3</span> Reduced production
 costs
         </div>
-        <div className='font-bold text-xl my-6'>
+        <div className='md:font-bold text-xl my-6'>
           <span className='p-2 bg-red-600'>4</span> Improved performance and efficiency.
         </div>
         </div>
 
         <div className='div1'>
-        <div className='font-bold text-xl my-8'>
+        <div className='md:font-bold text-xl my-8'>
           <span className='p-2 bg-red-600'>5</span> Possibility to add a third-row seat to mid-size vehicles,
         </div>
        
-        <div className='font-bold text-xl my-8'>
+        <div className='md:font-bold text-xl my-8'>
           <span className='p-2 bg-red-600'>6</span> The wheeled detachable box enables loading and unloading.
 
         </div>
-        <div className='font-bold text-xl my-8'>
+        <div className='md:font-bold text-xl my-8'>
           <span className='p-2 bg-red-600'>7</span> Fast deployment time of less than 3 seconds.
         </div>
         </div>
